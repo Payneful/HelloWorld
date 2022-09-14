@@ -1,8 +1,6 @@
 # Overview
 
-This is the classic Hello World program. I wrote it to demonstrate my development environment using Python.
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+This is the classic Hello World program. I wrote it to demonstrate my development environment using Python. I incorporated some fun animations using system time and a different look to just normal hello world typed out.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -14,5 +12,4 @@ This is the classic Hello World program. I wrote it to demonstrate my developmen
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Git Repository](https://github.com/Payneful/HelloWorld)
