@@ -2,7 +2,7 @@
 
 This is the classic Hello World program. I wrote it to demonstrate my development environment using Python. I incorporated some fun animations using system time and a different look to just normal hello world typed out.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/rJE6z3rP0D4)
 
 # Development Environment
 
